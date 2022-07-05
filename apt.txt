@@ -1,3 +1,4 @@
 libproj-dev
 libgeos++-dev
 proj-bin
+python3-dev
